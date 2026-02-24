@@ -1,5 +1,4 @@
 # deepakdiscussion
-<<<<<<< 6-Nguyen-name-file
 D e e p a k g e o
 E e
 E e
@@ -9,7 +8,6 @@ K e
 G e
 E e
 O e
-=======
 D
 E
 E
@@ -19,4 +17,3 @@ K
 G
 E
 O hi;D
->>>>>>> main
